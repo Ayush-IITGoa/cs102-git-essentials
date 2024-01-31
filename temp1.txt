@@ -1,1 +1,4 @@
 second try for pushing from local server to github server
+git add <file_name>
+git commit -m <"your message">
+git push origin main
